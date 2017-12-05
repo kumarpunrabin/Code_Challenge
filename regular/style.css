@@ -1,0 +1,16 @@
+#inputuser{
+    margin: 20px auto;
+    max-width: 50%;
+
+}
+
+#getRepos{
+    margin: 30px;
+}
+.repos{
+    margin: 20px auto;
+}
+
+.repos li {
+    margin: 5px;
+}
